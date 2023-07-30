@@ -10,7 +10,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>Akash Yadav (itsaky)</b></sub></a>
       <br />
-      <sub><b>58128 words</b></sub>
+      <sub><b>63867 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/esalessandrx"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15563911/medium/a2262fe354d51d9c991d06fcace20b7a.jpg" />
@@ -38,14 +38,14 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>zhiq liu (liziq)</b></sub></a>
       <br />
-      <sub><b>1948 words</b></sub>
+      <sub><b>1954 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/andihasan97"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15550047/medium/ac9578131f9d0bd877837b2ac604795d.png" />
         <br />
         <sub><b>Andi Hasan A (andihasan97)</b></sub></a>
       <br />
-      <sub><b>1445 words</b></sub>
+      <sub><b>1638 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/krc440002"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/12564628/medium/addb4132479fae98076ae2fa4ccb42a4_default.png" />
@@ -96,7 +96,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>rafael_mn</b></sub></a>
       <br />
-      <sub><b>491 words</b></sub>
+      <sub><b>499 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/Smooth-E"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15555625/medium/1fc098969551e0430a579242afe26c5f.png" />
@@ -113,11 +113,11 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
       <sub><b>251 words</b></sub>
     </td>
     <td align="center" valign="top">
-      <a href="https://crowdin.com/profile/Rasstaman1337"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/14792658/medium/190700b1411253b7e6474a052f019f0d.png" />
+      <a href="https://crowdin.com/profile/Marcus_Jeeves"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15930373/medium/64fdfbf36048d06fa800c60cfc455cba_default.png" />
         <br />
-        <sub><b>Канал Никого (Rasstaman1337)</b></sub></a>
+        <sub><b>Владислав Сухов (Marcus_Jeeves)</b></sub></a>
       <br />
-      <sub><b>225 words</b></sub>
+      <sub><b>138 words</b></sub>
     </td>
   </tr>
   <tr>
